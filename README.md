@@ -40,7 +40,7 @@ https://play.elfmasters.com/
 
 ・スキル情報(skill_list.csv)
 
-・マスター基礎ステータス(base_props_hero.csv)
+・マスター基礎ステータス(base_prop_hero.csv)
 
 ## 使用方法
 
